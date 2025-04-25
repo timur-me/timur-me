@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hey there👋
 
-<!--
-**timur-me/timur-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend (and sometimes full-stack) developer based in Germany 🇩🇪, passionate about clean and simple code. Currently wrapping up my **Ausbildung**, actively looking for full-time opportunities in **backend development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack & Skills:
+
+- **Languages:** Python, C#, JavaScript, TypeScript  
+- **Frameworks:** Angular, FastAPI, Django, Aiogram
+- **DevOps / Tools:** Git, Docker, K8s, CI/CD, Azure  
+- **Messaging / Data:** PostgreSQL, RabbitMQ, Redis  
+- **Other:** Selenium, Puppeteer
+
+---
+
+### 🔧 Side Projects:
+
+- 🤖 **Telegram Bots** — have a look in my VBB routes notifier
+- 🛠 **Website Automation** — no API or rate-limits? parsing can still be done
+- 📦 **Website Parsing** — scraping is my passion
+---
+
+### 🎯 2025 Goals:
+
+- ✅ Finish my Ausbildung by July
+- 🛂 Secure a developer role in Germany 
+
+---
+
+### 📬 Let's connect!
+  
+- 💬 Telegram: [@adv4nce_tg](https://t.me/adv4nce_tg)  
+- 💼 LinkedIn: linkedin.com/in/tim-chim
+
+---
+
+Thanks for visiting! I'm always open to collaboration or just tech talk 🤝
+
