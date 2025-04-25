@@ -30,8 +30,7 @@ I'm a backend (and sometimes full-stack) developer based in Germany 🇩🇪, pa
 
 ### 📬 Let's connect!
   
-- 💬 Telegram: [@adv4nce_tg](https://t.me/adv4nce_tg)  
-- 💼 LinkedIn: linkedin.com/in/tim-chim
+- 💼 LinkedIn: https://linkedin.com/in/tim-chim
 
 ---
 
